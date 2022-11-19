@@ -51,6 +51,7 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
 
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -65,6 +66,8 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - lib/img.png
+    - lib/img_1.png
+    - lib/img_2.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
